@@ -1,0 +1,25 @@
+{
+  "name": "explore",
+  "version": "1.0.0",
+  "description": "A Real time chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeteshking21/Explore.git"
+  },
+  "keywords": [
+    "Chat"
+  ],
+  "author": "Neetesh Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neeteshking21/Explore/issues"
+  },
+  "homepage": "https://github.com/Neeteshking21/Explore#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
